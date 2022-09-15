@@ -1,0 +1,3 @@
+rest-error-handling:
+  enabled: false
+  rest-error-handling-file-name: 'rest-error-handling.json'

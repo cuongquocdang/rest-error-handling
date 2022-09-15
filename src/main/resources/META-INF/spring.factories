@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.resterrorhandling.RestErrorHandlingProperties,\
+com.example.resterrorhandling.RestErrorHandlingConfiguration,\
+com.example.resterrorhandling.RestErrorHandlingGlobalHandler
